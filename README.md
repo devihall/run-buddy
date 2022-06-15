@@ -1,6 +1,8 @@
-# run-buddy
+# Run Buddy, Inc
+
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
+
 ## Built With
 * HTML
 * CSS
@@ -10,3 +12,8 @@ A website that offers fitness training services.
 
 ## Contribution
 Made with ❤️ by Devi Hall
+
+### ©️2019 Run Buddy, Inc
+
+
+
