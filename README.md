@@ -6,7 +6,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+[https://devihall.github.io/run-buddy/]
 
 ## Contribution
 Made with ❤️ by Devi Hall
